@@ -1,0 +1,3 @@
+List of the landing/taking-off activities:
+-----------------------------------------
+Flight 789 taken-off.
